@@ -1,6 +1,7 @@
 # example project
 examples/
-src/
+#uncomment this when ready to package:
+#src/
 # build
 .travis
 .travis.yml
